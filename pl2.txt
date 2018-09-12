@@ -1,0 +1,4 @@
+name - pl2
+health - 120
+damage - 45
+armor - 1.3
